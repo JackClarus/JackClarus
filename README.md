@@ -1,4 +1,6 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Cabin&pause=500&color=1F48D2&background=3BFFA500&lines=Hi!+I'm+Jack.+%F0%9F%98%8E;Welcome+to++My+GitHub+Page)](https://git.io/typing-svg)
+<img src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif" align="right" width="350" height="200">
+
 <h3 align="center">AWS & DevOps Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
